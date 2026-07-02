@@ -1,8 +1,6 @@
 # Employee_attrition_prediction_system
 An end-to-end automated Machine Learning pipeline and Streamlit web application to predict employee attrition risk using Optuna, MLflow, and Scikit-Learn.
 
-# Employee Attrition Prediction
-
 A machine learning system that flags employees most likely to leave — before they do.
 
 Built end-to-end across four sprints: raw HR data → cleaned features → five trained classifiers → a tuned Random Forest that hits 83.9% ROC-AUC in production.
